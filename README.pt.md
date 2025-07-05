@@ -1,4 +1,10 @@
-# 👨‍💻 Douglas Barbosa
+# 🌍 Douglas Barbosa
+
+📄 Read this in:
+- 🇺🇸 [English](./README.md) 
+- 🇧🇷 [Português](./README.pt.md) ← Você está aqui!
+
+---
 
 **Software Engineer | TDD & Clean Code Enthusiast | Full Stack Developer**
 
@@ -10,9 +16,9 @@ Olá! Seja bem-vindo ao meu GitHub (versão 2025.2). Aqui você encontrará uma 
 
 | Seção | Descrição |
 |-------|-----------|
-| [📁 Projetos](../projects) | Projetos profissionais, pessoais e de portfólio, focados em qualidade de código, arquitetura e boas práticas. |
-| [🏆 Challenges and Exercises](../ChallengesAndExercises) | Soluções de desafios do Beecrowd, HackerRank, e exercícios de cursos como Balta.IO. |
-| [🧰 Box Of Codes](../BoxOfCodes) | Snippets, mini-projetos e experimentos separados por linguagem ou tecnologia. |
+| [📁 Projetos](https://github.com/douglassbarbosa/projects) | Projetos profissionais, pessoais e de portfólio, focados em qualidade de código, arquitetura e boas práticas. |
+| [🏆 Challenges and Exercises](https://github.com/douglassbarbosa/ChallengesAndExercises) | Soluções de desafios do Beecrowd, HackerRank, e exercícios de cursos como Balta.IO. |
+| [🧰 Box Of Codes](https://github.com/douglassbarbosa/BoxOfCodes) | Snippets, mini-projetos e experimentos separados por linguagem ou tecnologia. |
 | [🌐 Meu site](https://www.douglasbarbosa.com) | Portfólio com mais informações sobre minha carreira e projetos. |
 
 ---
