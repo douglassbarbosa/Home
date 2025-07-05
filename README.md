@@ -18,9 +18,9 @@ Welcome! This is my personal GitHub space. Here you'll find a collection of my p
 
 | Section | Description |
 |--------|-------------|
-| [📁 Projects](../Projects) | Professional and personal portfolio projects focused on code quality, architecture, and best practices. |
-| [🏆 Challenges and Exercises](../Coding-Challenges)) | Solutions from Beecrowd, HackerRank, and exercises from courses like Balta.IO. |
-| [🧰 Box Of Codes](../BoxOfCodes) | Snippets, mini-projects, and technical experiments, organized by technology. |
+| [📁 Projects](https://github.com/douglassbarbosa/Projects) | Professional and personal portfolio projects focused on code quality, architecture, and best practices. |
+| [🏆 Challenges and Exercises](https://github.com/douglassbarbosa/Coding-Challenges)) | Solutions from Beecrowd, HackerRank, and exercises from courses like Balta.IO. |
+| [🧰 Box Of Codes](https://github.com/douglassbarbosa/BoxOfCodes) | Snippets, mini-projects, and technical experiments, organised by technology. |
 | [🌐 My Website](https://www.douglasbarbosa.com) | Portfolio with more information about my career and projects. |
 
 ---
