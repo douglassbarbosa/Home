@@ -1,3 +1,4 @@
+
 # 🌍 Douglas Barbosa
 
 📄 Read this in:
@@ -54,4 +55,4 @@ Welcome! This is my personal GitHub space. Here you'll find a collection of my p
 
 > _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
 
-_Douglas Barbosa @ 2025 | Formated by GPT-4o_
+_Douglas Barbosa @ 2025 | Formated by GPT-4o_ | v0.1.1
