@@ -1,9 +1,7 @@
 
 # 🌍 Douglas Barbosa
 
-📄 Read this in:
-- 🇺🇸 [English](./README.md) ← You are here
-- 🇧🇷 [Português](./README.pt.md)
+📄 Language: 🇺🇸 **English** | 🇧🇷 **[Português](./README.pt.md)**
 
 ---
 
