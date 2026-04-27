@@ -17,8 +17,8 @@ Olá! Seja bem-vindo ao meu GitHub (versão 2025.2). Aqui você encontrará uma 
 | Seção | Descrição |
 |-------|-----------|
 | [📁 Projetos](https://github.com/douglassbarbosa/projects) | Projetos profissionais, pessoais e de portfólio, focados em qualidade de código, arquitetura e boas práticas. |
-| [🏆 Challenges and Exercises](https://github.com/douglassbarbosa/ChallengesAndExercises) | Soluções de desafios do Beecrowd, HackerRank, e exercícios de cursos como Balta.IO. |
-| [🧰 Box Of Codes](https://github.com/douglassbarbosa/BoxOfCodes) | Snippets, mini-projetos e experimentos separados por linguagem ou tecnologia. |
+| [🏆 Challenges and Exercises](https://github.com/douglassbarbosa/portals-coding-challenges) | Soluções de desafios do Beecrowd, HackerRank, e exercícios de cursos como Balta.IO. |
+<!-- | [🧰 Box Of Codes](https://github.com/douglassbarbosa/BoxOfCodes) | Snippets, mini-projetos e experimentos separados por linguagem ou tecnologia. | -->
 
 ---
 
@@ -46,10 +46,9 @@ Olá! Seja bem-vindo ao meu GitHub (versão 2025.2). Aqui você encontrará uma 
 
 - 🌐 [douglasbarbosa.com](https://www.douglasbarbosa.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/douglasbarbosadev)
-- 📫 Email: douglasbarbosadev@gmail.com
 
 ---
 
 > _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
 
-_Douglas Barbosa @ 2025 | Formatação by GTP-4o_
+_Douglas Barbosa @ 2026 | Formatação by GTP-4o_ | v0.1.2

@@ -18,8 +18,8 @@ Welcome! This is my personal GitHub space. Here you'll find a collection of my p
 | Section | Description |
 |--------|-------------|
 | [📁 Projects](https://github.com/douglassbarbosa/Projects) | Professional and personal portfolio projects focused on code quality, architecture, and best practices. |
-| [🏆 Challenges and Exercises](https://github.com/douglassbarbosa/Coding-Challenges)) | Solutions from Beecrowd, HackerRank, and exercises from courses like Balta.IO. |
-| [🧰 Box Of Codes](https://github.com/douglassbarbosa/BoxOfCodes) | Snippets, mini-projects, and technical experiments, organised by technology. |
+| [🏆 Challenges and Exercises](https://github.com/douglassbarbosa/portals-coding-challenges)) | Solutions from Beecrowd, HackerRank, and exercises from courses like Balta.IO. |
+<!-- | [🧰 Box Of Codes](https://github.com/douglassbarbosa/BoxOfCodes) | Snippets, mini-projects, and technical experiments, organised by technology. | -->
 | [🌐 My Website](https://www.douglasbarbosa.com) | Portfolio with more information about my career and projects. |
 
 ---
@@ -53,4 +53,4 @@ Welcome! This is my personal GitHub space. Here you'll find a collection of my p
 
 > _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
 
-_Douglas Barbosa @ 2025 | Formated by GPT-4o_ | v0.1.1
+_Douglas Barbosa @ 2026 | Formated by GPT-4o_ | v0.1.2
