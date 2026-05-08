@@ -16,8 +16,7 @@ Welcome! This is my personal GitHub space. Here you'll find a collection of my p
 |--------|-------------|
 | [📁 Projects](https://github.com/douglassbarbosa/Projects) | Professional and personal portfolio projects focused on code quality, architecture, and best practices. |
 | [🏆 Challenges and Exercises](https://github.com/douglassbarbosa/portals-coding-challenges) | Solutions from Beecrowd, HackerRank, and exercises from courses like Balta.IO. |
-| [🌐 douglasbarbosa.com](https://github.com/douglassbarbosa/douglasbarbosa.com) | Source code of my personal site — portfolio, blog and services. |
-<!-- | [🧰 Box Of Codes](https://github.com/douglassbarbosa/BoxOfCodes) | Snippets, mini-projects, and technical experiments, organised by technology. | -->
+| [🌐 douglasbarbosa.com](https://github.com/douglassbarbosa/douglasbarbosa.com) | Source code of my personal site — portfolio, blog and services. | 
 
 ---
 
