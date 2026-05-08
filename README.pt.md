@@ -18,7 +18,7 @@ Olá! Seja bem-vindo ao meu GitHub (versão 2025.2). Aqui você encontrará uma 
 |-------|-----------|
 | [📁 Projetos](https://github.com/douglassbarbosa/projects) | Projetos profissionais, pessoais e de portfólio, focados em qualidade de código, arquitetura e boas práticas. |
 | [🏆 Challenges and Exercises](https://github.com/douglassbarbosa/portals-coding-challenges) | Soluções de desafios do Beecrowd, HackerRank, e exercícios de cursos como Balta.IO. |
-<!-- | [🧰 Box Of Codes](https://github.com/douglassbarbosa/BoxOfCodes) | Snippets, mini-projetos e experimentos separados por linguagem ou tecnologia. | -->
+| [🌐 douglasbarbosa.com](https://github.com/douglassbarbosa/douglasbarbosa.com) | Código-fonte do meu site pessoal — portfólio, blog e serviços. | 
 
 ---
 
